@@ -1,2 +1,2 @@
 # eshrusProject
-Very cool and interesting project
+Today we're going to create and test a new repository
